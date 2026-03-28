@@ -1,0 +1,15 @@
+# Build folders
+Debug/
+Release/
+
+# Binary files
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE local settings
+.settings/
+.launches/
+.metadata/
